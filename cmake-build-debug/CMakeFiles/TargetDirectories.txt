@@ -1,0 +1,4 @@
+/Users/chenzhengyang/NFU-C/DataHW02/cmake-build-debug/CMakeFiles/DataHW02.dir
+/Users/chenzhengyang/NFU-C/DataHW02/cmake-build-debug/CMakeFiles/SelectionSort.dir
+/Users/chenzhengyang/NFU-C/DataHW02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenzhengyang/NFU-C/DataHW02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
